@@ -1,2 +1,2 @@
-# laravel-crud-po
-Laravel crud operation demo
+# laravel-shopping-cart
+Laravel shopping cart demo
